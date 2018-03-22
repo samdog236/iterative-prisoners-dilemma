@@ -6,8 +6,8 @@
 #     move: A function that returns 'c' or 'b'
 ####
 
-team_name = 'TRUMP2020' # Only 10 chars displayed.
-strategy_name = 'test'
+team_name = 'TestOutPro' # Only 10 chars displayed.
+strategy_name = 'Finish Testout'
 strategy_description = 'How does this strategy decide?'
 
 def move(my_history, their_history, my_score, their_score):
